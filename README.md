@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**TiagoCos/TiagoCos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thiago Silva
+<img src="https://avatars.githubusercontent.com/u/1234567?v=4" width="100">
+Olá, sou o Thiago Silva. Formado em Análise e Desenvolvimento de Sistemas pela Universidade X em 2022.
 
-Here are some ideas to get you started:
+Objetivo
+Desenvolvedor Front-end Junior focado em projetos com React. Busco uma oportunidade para aplicar meus conhecimentos em programação e contínuo aprendizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades
+ReactJS | JavaScript | HTML | CSS
+Versionamento com Git e GitHub
+Metodologias Ágeis
+Pensamento crítico e resolução de problemas
+Trabalho em equipe
+Projetos Relevantes
+Portfólio Online
+Meu site pessoal desenvolvido com React, Sass e GitHub Pages.
+
+
+
+Desenvolvimento e manutenção de sites institucionais
+Contatos
+https://www.linkedin.com/in/tiago-costa-silva-5ba974222
+tiagocostasilva@gmail.com
