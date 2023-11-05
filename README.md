@@ -2,20 +2,20 @@
 
 Thiago Silva
 <img src="https://avatars.githubusercontent.com/u/1234567?v=4" width="100">
-Olá, sou o Thiago Silva. Formado em Análise e Desenvolvimento de Sistemas pela Universidade X em 2022.
+Olá, sou o Thiago Silva. Formado em Análise e Desenvolvimento de Sistemas pela Universidade X em 2022. <br />
 
 Objetivo
-Desenvolvedor Front-end Junior focado em projetos com React. Busco uma oportunidade para aplicar meus conhecimentos em programação e contínuo aprendizado.
+Desenvolvedor Front-end Junior focado em projetos com React. Busco uma oportunidade para aplicar meus conhecimentos em programação e contínuo aprendizado. 
 
 Habilidades
-ReactJS | JavaScript | HTML | CSS
-Versionamento com Git e GitHub
-Metodologias Ágeis
-Pensamento crítico e resolução de problemas
-Trabalho em equipe
-Projetos Relevantes
-Portfólio Online
-Meu site pessoal desenvolvido com React, Sass e GitHub Pages.
+ReactJS | JavaScript | HTML | CSS <br />
+Versionamento com Git e GitHub <br />
+Metodologias Ágeis <br />
+Pensamento crítico e resolução de problemas <br />
+Trabalho em equipe <br />
+Projetos Relevantes <br />
+Portfólio Online <br />
+Meu site pessoal desenvolvido com React, Sass e GitHub Pages.<br />
 
 
 
