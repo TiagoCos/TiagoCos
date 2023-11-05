@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Thiago Silva
+Thiago Silva <br />
 <img src="https://avatars.githubusercontent.com/u/1234567?v=4" width="100">
+<br />
 Olá, sou o Thiago Silva. Formado em Análise e Desenvolvimento de Sistemas pela Universidade X em 2022. <br />
 
 Objetivo
