@@ -1,22 +1,19 @@
-### Hi there 👋
+### Olá 👋
 
-Thiago Silva <br />
+## Tiago Costa Silva <br />
 <img src="https://avatars.githubusercontent.com/u/1234567?v=7" width="100">
 <br />
-Olá, sou o Thiago Silva. Formado em Análise e Desenvolvimento de Sistemas pela Universidade X em 2022. <br />
+Olá, sou o Thiago Silva. Formado em Análise e Desenvolvimento. <br />
 
-Objetivo
-Desenvolvedor Front-end Junior focado em projetos com React. Busco uma oportunidade para aplicar meus conhecimentos em programação e contínuo aprendizado. 
-
-Habilidades
-ReactJS | JavaScript | HTML | CSS <br />
-Versionamento com Git e GitHub <br />
-Metodologias Ágeis <br />
-Pensamento crítico e resolução de problemas <br />
-Trabalho em equipe <br />
-Projetos Relevantes <br />
-Portfólio Online <br />
-Meu site pessoal desenvolvido com React, Sass e GitHub Pages.<br />
+## Habilidades
+  ReactJS | JavaScript | HTML | CSS <br />
+  Versionamento com Git e GitHub <br />
+  Metodologias Ágeis <br />
+  Pensamento crítico e resolução de problemas <br />
+  Trabalho em equipe <br />
+  Projetos Relevantes <br />
+  Portfólio Online <br />
+  Meu site pessoal desenvolvido com React, Sass e GitHub Pages.<br />
 
 
 
